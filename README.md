@@ -2,11 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
-
+- Student name: Audrey Mann
+- GitHub username: aaudreyy-creator
+- Project title: Inventory and Reorder Tracker
+- Application purpose: This program helps a café track its supply inventory and flags items that have fallen to their reorder point. It generates a reorder report grouped by supplier with estimated costs, and saves all data to a CSV file so it persists between uses.
 ## How to Run the Application
 
 Explain the required Python version, required files, and the exact steps for starting the application in PyCharm.
